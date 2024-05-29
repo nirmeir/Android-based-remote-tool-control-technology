@@ -1,4 +1,4 @@
-### Brief Explanation for Public Audience:
+### Brief Explanation on Android-based-remote-tool-control-technology:
 
 *Project Overview:*
 
@@ -53,7 +53,7 @@ We will be transforming a standard RC car into a smart vehicle that can be contr
 
 This project combines practical engineering with modern tech, providing a hands-on experience in robotics and remote control systems.
 
-###Previus projects:
+### Previus projects:
 In this course we got untill now 2 project:
 1) The first project was about GNSS raw mesurments, we asked to find a location that recieved from few satellites by analize data set that we get.
 2) The second project was about drone simulator and the main goal for the project was to try find good solution of small drone, flying inside indoor building without getting hit and crash. The project fully autonomous 2d drone simulator
